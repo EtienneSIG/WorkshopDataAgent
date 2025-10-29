@@ -138,24 +138,12 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
    Click on ![NewMeasure](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/NewMeasure.png) for each measure to create
    ```dax
-   Total Forecast 24 = SUM('fabric_logs_sample'[Fcst 24 tx 24])
-   Total Forecast 25 = SUM('fabric_logs_sample'[Fcst 25 tx 25])
-   Total Forecast 26 = SUM('fabric_logs_sample'[fcst 26x forecast taux 25])
-   Forecast Growth = [Total Forecast 25] - [Total Forecast 24]
-   Forecast Growth % = DIVIDE([Forecast Growth], [Total Forecast 24], 0)
-   Contract Count = COUNTROWS('fabric_logs_sample')
+   // Total Spending
+   Total Spending = SUM('FinancialData'[AmoutinEUR])
+
+   // Number of Transactions
+   Number of Transactions = COUNTROWS('FinancialData')
    ```
-
-4. **Configure Hierarchies**
-   - Create geographical hierarchy: Zone > Company > Domain
-   - Create contract hierarchy: Domain > Generic Contracts > Reference Name
-   
-   For this, in Data > Tables section (on the right), click right on the field who will be the high level the hierarchy.
-   ![CreateHierarchy](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/CreateHierarchy.png)
-
-   And drag and drop the other field you would like to add to your hierarchy
-
-
 #### 2. Advanced Data Agent Creation
 1. **Access Data Agents**
    - Come back to workspace level, click "New Items" and search for "Data Agents"
@@ -171,23 +159,34 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Configure standard responses for frequent questions
    - Enable automatic visualizations
 
-#### 3. Testing and Optimization
+#### 3. Example of testing and optimization
 **Sophisticated test scenarios:**
 
-1. **Performance Analysis**
-   - "How are our different zones performing in terms of forecast growth?"
-   - "Identify concerning trends across companies and domains"
-   - "Which contracts have the highest variance between forecast years?"
-
-2. **Predictions and Recommendations**
-   - "Based on current trends, what will be our forecast for 2026?"
-   - "Which zones should we focus on for growth opportunities?"
-   - "Compare forecast performance across different currency zones"
-
-3. **Comparative Analysis**
-   - "Compare EMEA vs APAC vs AMERICAS performance"
-   - "Show me the most significant contract variations by domain"
-   - "Analyze the distribution of contracts by company and zone"
+1. Performance Analysis
+   - "How are our different departments (Dept) performing in terms of average spending?"
+   - "Identify concerning average trends across companies and sites"
+   - "Which suppliers have the highest average transaction volumes and amounts?"
+   - "What's the average spending pattern across different Nature categories (N81_MASA_F, N30_ENERGY_V, etc.)?"
+   - "Compare average spending performance across different ledgers (MX_589_PL_MXN, BR_414_PL_BRL, etc.)"
+2. Predictions and Recommendations
+   - "Based on current trends, what will be our aveerage spending forecast for Q1 2026?"
+   - "Which departments should we focus on for cost optimization?"
+   - "Predict overdue payments based on historical patterns"
+   - "What's the expected spending by Service category for next quarter?"
+   - "Identify suppliers with increasing transaction trends"
+3. Comparative Analysis
+   - "Compare  average spending across BSS vs IN vs DIR vs MQ departments"
+   - "Show me the most significant  average spending variations by NatAnal category"
+   - "Analyze the  average distribution of transactions by Company and Site"
+   - "Compare  average Debit vs  average Credit patterns across different Sources"
+   - "What's the difference in spending between document currencies (EUR vs BRL vs GBP vs USD)?"
+4. Additional Operational Questions
+   - "Which sites have the longest payment cycles (DateCreated to DueDate)?"
+   - "What's the average transaction amount by Category (GL_Intercompany_Reversal, Inventory, etc.)?"
+   - "Identify suppliers with negative transactions - why are we receiving credits?"
+   - "How does average spending vary across different Intercompany codes?"
+   - "What's the lead time between PO Order Date and Document Creation?"
+   - "Which Major/Minor classification combinations have the highest average spending?"
 
 #### 4. Power BI Copilot Integration
 
@@ -205,28 +204,26 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 3. **Natural Language Report Creation**
    **Example prompts to try:**
-   - "Create a chart showing forecast trends by zone"
-   - "Show me a map visualization of contracts distribution across zones"
-   - "Build a table with the top 10 contracts by forecast value"
-   - "Generate a waterfall chart showing forecast growth from 2024 to 2026"
-   - "Create a matrix showing forecast values by company and domain"
+   - "Create a chart showing average spending trends by Department over time"
+   - "Build a table with the top 10 suppliers by average transaction amount"
+   - "Generate a waterfall chart showing average net amount flow from Debit to Credit"
+   - "Create a matrix showing average spending by Company and Service"
 
 4. **Advanced Copilot Features**
-   - **Narrative Insights**: Ask Copilot to "Explain the forecast performance trends across zones"
-   - **Smart Recommendations**: Copilot suggests relevant visualizations based on your data
-   - **Auto-formatting**: Automatically applies best practices for chart formatting
-   - **Data Storytelling**: Generate executive summaries with key insights
+   - **Narrative Insights**: Ask Copilot to "Explain the spending performance trends across departments and companies"
+   - **Smart Recommendations**: Copilot suggests relevant visualizations based on your financial data
+   - **Auto-formatting**: Automatically applies best practices for financial chart formatting
+   - **Data Storytelling**: Generate executive summaries with key insights like "Summarize top spending areas and payment trends"
 
-5. **Executive Dashboard Creation**
-   - Use Copilot to create a comprehensive executive dashboard
-   - Example: "Create an executive summary page with KPI cards for total forecast 24, 25, 26, and growth percentage"
-   - Add slicers for interactive filtering by zone, company, and domain
-   - Configure drill-through capabilities for detailed contract analysis
+6. **Executive Dashboard Creation**
+   - Use Copilot to create a comprehensive financial executive dashboard
+   - Example: "Create an executive summary page with KPI cards for Total Spending, Number of Transactions, Overdue Amount, and Average Transaction Value"
+   - Add slicers for interactive filtering by Department, Company, Supplier, and DateCreated
+   - Configure drill-through capabilities for detailed supplier and transaction analysis
+   - "Add a KPI card showing YoY spending growth percentage"
+   - "Create a decomposition tree for spending by Dept → Service → NatAnal"
+   - "Build a Q&A visual that answers 'What are the top 5 suppliers by spending?'"
 
-6. **Collaborative Features**
-   - **Q&A Visual**: Add a Q&A visual that allows users to ask questions in natural language
-   - **Comments and Annotations**: Use Copilot to generate insights comments on visuals
-   - **Report Narration**: Generate automated narrative explanations of trends and anomalies
 
 ### 💡 Power BI Copilot Benefits for Executives
 - **Speed**: Create complex reports in minutes instead of hours
@@ -434,6 +431,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
