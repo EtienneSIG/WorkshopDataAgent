@@ -41,11 +41,11 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 1. **Open Windows Explorer**
    - Download the 'fabric_logs_sample.csv' file [here](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/data/fabric_logs_sample.csv)
    - Navigate to the folder containing your data files
-   - Locate the `fabric_logs_sample.csv` file
+   - Locate the `financial_dataset_usdate_10k.csv` file
      
 ##### 3. Data Loading
 1. **Drag and Drop the File**
-   - Drag `fabric_logs_sample.csv` from Windows Explorer
+   - Drag `financial_dataset_usdate_10k.csv` from Windows Explorer
    - Drop into your OneLake workspace
  
  ![Onelake Explorer](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Onelake%20Explorer.png)   
@@ -67,13 +67,13 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 1. **Access Fabric Online**
    - Go on powerbi.com and log in. Go to your workspace "Workshop_User01" 
    - then go to the lakehouse "workshop_lakehouse"
-   - Navigate to the "Files" click on "...>Upload>Upload files"section to ipload your csv file
+   - Navigate to the "Files" click on "...>Upload>Upload files"section to upload the `financial_dataset_usdate_10k.csv` csv file that you found in the data section.
    - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
    ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
 
 3. **Create the Data Agent**
-   - Locate the newly created `fabric_logs_sample` table
+   - Locate the newly created `financial_data` table
    - Click the **"Add Data Agent"** button
    - Configure the Data Agent name: "Operations Assistant"
    - Just talk to your data
@@ -428,6 +428,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
