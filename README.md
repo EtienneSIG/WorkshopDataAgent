@@ -68,6 +68,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Go on powerbi.com and log in. Go to your workspace "Workshop_User01" 
    - then go to the lakehouse "workshop_lakehouse"
    - Navigate to the "Files" click on "...>Upload>Upload files"section to upload the `financial_dataset_usdate_10k.csv` csv file that you found in the data section.
+   ![UploadFiles](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/Uploadfiles.png) 
    - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
    ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
@@ -81,19 +82,24 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 #### 5. First Conversational Test
 **Questions to ask the Data Agent:**
 - Question 1 : "Can you describe the data?"
-- Answer 1 :   image to upload
+- Answer 1 :
+  ![Question1](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/question1.png)
 - Question 2 - a:  "What are the main zones and their distribution?"
 - Answer 2 - a :
+  ![Question2a](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/Question%202a.png)
 - Question 2 - b:  "When I said zone, it means site"
 - Answer 2 - b :
+  ![Question2b](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/Question%202b.png)
 - Question 2 - c:  "When I said zone, it means site"
-- Answer 2 - c : 
+- Answer 2 - c :
+  ![Question2c](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/Question%202c.png)
 - Question 3 - a : "Show me the avg(amoutineur) by site per year"
 - Answer 3 - a :
+  ![Question3a](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/question%203%20-%20a.png)
 - Question 3 - b : "yes" or "I Would like forecasted values based on these trends for 2026, or any specific site/year details?"
-- Answer 3 - b : 
+- Answer 3 - b :
+  ![Question3b](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/question%203b.png)
 
-   ![Talk to your data](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Talk%20to%20your%20data.png)
 
 ### 💡 Key Points for Executives
 - **Simplicity**: From your desktop to AI in 5 clicks
@@ -428,6 +434,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
