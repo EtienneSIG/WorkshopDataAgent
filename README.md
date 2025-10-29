@@ -26,7 +26,8 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 *You are an operations director who wants to quickly analyze contract and operational data stored locally. Instead of waiting for the IT team or an analyst, you want to access insights directly through AI.*
 
 #### Detailed Steps
-## Load data via OneLake Explorer (optional - If you don't do that go directly to step Load date via Onelake)
+## Load data via OneLake Explorer 
+## optional - If you don't do use Onelake Explorer, go directly to step Load date via Onelake
 ##### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
@@ -420,6 +421,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
