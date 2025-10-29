@@ -1,4 +1,4 @@
-# Hands-On: Microsoft Fabric Data Agents - Contract & Operations Analysis
+# Hands-On: Contract & Operations Analysis
 
 ## 🎯 Hands-On Objectives
 
@@ -19,14 +19,15 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 ---
 
-## 🎭 Scenario 1: From Windows Desktop to Data Agents via OneLake Explorer
+### 🎭 Scenario 1: From Windows Desktop to Data Agents 
+
 
 ### Business Context
 *You are an operations director who wants to quickly analyze contract and operational data stored locally. Instead of waiting for the IT team or an analyst, you want to access insights directly through AI.*
 
-### Detailed Steps
-
-#### 1. Connection via OneLake Explorer
+#### Detailed Steps
+## Load data via OneLake Explorer (optional - If you don't do that go directly to step Load date via Onelake)
+##### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
    - Select "Open OneLake Explorer"
@@ -35,13 +36,13 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Sign in with your Microsoft 365 credentials
    - Select the appropriate Fabric workspace
 
-#### 2. Starting from Windows Desktop
+##### 2. Starting from Windows Desktop
 1. **Open Windows Explorer**
    - Download the 'fabric_logs_sample.csv' file [here](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/data/fabric_logs_sample.csv)
    - Navigate to the folder containing your data files
    - Locate the `fabric_logs_sample.csv` file
      
-#### 3. Data Loading
+##### 3. Data Loading
 1. **Drag and Drop the File**
    - Drag `fabric_logs_sample.csv` from Windows Explorer
    - Drop into your OneLake workspace
@@ -54,15 +55,23 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Note the automatic data preview
 
 
-#### 4. Data Agent Activation
+##### 4. Data Agent Activation
 1. **Access Fabric Online**
    - Click right on the file "View item online" from OneLake Explorer
    - Navigate to the "Files" section to see your csv file
    - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
    ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
+## Load date via Onelake
+1. **Access Fabric Online**
+   - Go on powerbi.com and log in. Go to your workspace "Workshop_User01" 
+   - then go to the lakehouse "workshop_lakehouse"
+   - Navigate to the "Files" section to see your csv file
+   - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
-2. **Create the Data Agent**
+   ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
+
+3. **Create the Data Agent**
    - Locate the newly created `fabric_logs_sample` table
    - Click the **"Add Data Agent"** button
    - Configure the Data Agent name: "Operations Assistant"
@@ -411,6 +420,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
