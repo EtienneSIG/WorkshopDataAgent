@@ -15,7 +15,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 - Access to Microsoft Fabric with enabled capacity
 - OneLake Explorer installed on Windows Desktop. Download Onelake Explorer ([here](https://www.microsoft.com/en-us/download/details.aspx?id=105222)).
 - Dedicated workspace and lakehouse already created
-- Provided `fabric_logs_sample.csv` file (see Data section)
+- Provided `financial_dataset_usdate_10k.csv` file (see Data section)
 
 ---
 
@@ -67,7 +67,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 1. **Access Fabric Online**
    - Go on powerbi.com and log in. Go to your workspace "Workshop_User01" 
    - then go to the lakehouse "workshop_lakehouse"
-   - Navigate to the "Files" section to see your csv file
+   - Navigate to the "Files" click on "...>Upload>Upload files"section to ipload your csv file
    - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
    ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
@@ -80,11 +80,18 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 #### 5. First Conversational Test
 **Questions to ask the Data Agent:**
-- "Can you describe the data?"
-- "What are the main zones and their distribution?"
-- "Show me the forecast trends by company"
-- "Which contracts have the highest forecast values?"
-- "Compare performance across EMEA, APAC, and AMERICAS zones"
+- Question 1 : "Can you describe the data?"
+- Answer 1 :   image to upload
+- Question 2 - a:  "What are the main zones and their distribution?"
+- Answer 2 - a :
+- Question 2 - b:  "When I said zone, it means site"
+- Answer 2 - b :
+- Question 2 - c:  "When I said zone, it means site"
+- Answer 2 - c : 
+- Question 3 - a : "Show me the avg(amoutineur) by site per year"
+- Answer 3 - a :
+- Question 3 - b : "yes" or "I Would like forecasted values based on these trends for 2026, or any specific site/year details?"
+- Answer 3 - b : 
 
    ![Talk to your data](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Talk%20to%20your%20data.png)
 
@@ -421,6 +428,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
