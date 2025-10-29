@@ -26,8 +26,8 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 *You are an operations director who wants to quickly analyze contract and operational data stored locally. Instead of waiting for the IT team or an analyst, you want to access insights directly through AI.*
 
 #### Detailed Steps
-## Load data via OneLake Explorer 
-## optional - If you don't do use Onelake Explorer, go directly to step Load date via Onelake
+## Load data via OneLake Explorer (optionnal)
+## If you don't do use Onelake Explorer, go directly to step [Load data via Onelake](https://github.com/EtienneSIG/WorkshopDataAgent/tree/main?tab=readme-ov-file#load-date-via-onelake)
 ##### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
@@ -63,7 +63,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
    - Click right on csv file, then ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/load%20to%20table.png) and !["New table"](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/New%20table.png)
    
    ![Load to tables](https://github.com/EtienneSIG/-HO-Microsoft-Fabric-DataAgent/blob/main/img/Load%20csv%20into%20table.png)
-## Load date via Onelake
+## Load data via Onelake
 1. **Access Fabric Online**
    - Go on powerbi.com and log in. Go to your workspace "Workshop_User01" 
    - then go to the lakehouse "workshop_lakehouse"
@@ -421,6 +421,7 @@ NUM_ROWS = 100000  # Your desired row count
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
