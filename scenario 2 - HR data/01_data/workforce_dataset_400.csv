@@ -1,4 +1,4 @@
-Entity,Type,Company number,MASA status,FirstName,LastName,Year,Domain Solutions,% of work January,% work February,% work March,% work April,% work May,% work June,% work July,% work August,% work September,% work October,% work November,% work December
+Entity,Type,Company_number,MASA_status,FirstName,LastName,Year,Domain_Solutions,%_of_work_January,%_work_February,%_work_March,%_work_April,%_work_May,%_work_June,%_work_July,%_work_August,%_work_September,%_work_October,%_work_November,%_work_December
 BS,EXT,415,,Timothy,Snyder,2025,ES,0.92,1.14,0.86,1.03,1.12,0.86,1.01,0.94,0.92,0.95,1.13,1.06
 BS,EXT,508,,Charles,Woods,2025,DIR,1.02,0.95,1.0,1.08,1.19,1.13,1.09,1.16,1.06,0.94,1.02,0.9
 AMN,INT,415,NEVP,Pamela,Simpson,2025,EC,0.98,1.16,0.98,1.0,0.91,0.84,0.85,1.17,0.81,1.13,0.84,0.83
