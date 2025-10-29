@@ -1,0 +1,205 @@
+Date,Division,Department,Category,Budget_Amount,Actual_Amount,Currency,Project_Code,Responsible_Manager,Quarter
+2024-01-15,Sales,Field Sales,Personnel,85000,87200,EUR,PROJ001,Mary Martin,Q1 2024
+2024-01-15,Sales,Field Sales,Travel,15000,14500,EUR,PROJ001,Mary Martin,Q1 2024
+2024-01-15,Sales,Digital Sales,Software,25000,26800,EUR,PROJ002,Peter Williams,Q1 2024
+2024-01-15,Marketing,Digital Marketing,Advertising,120000,115000,EUR,PROJ003,Sophie Johnson,Q1 2024
+2024-01-15,Marketing,Brand Marketing,Events,45000,52000,EUR,PROJ004,Anthony Davis,Q1 2024
+2024-01-15,IT,Cybersecurity,Software,75000,73500,EUR,PROJ005,Thomas Brown,Q1 2024
+2024-01-15,IT,Infrastructure,Hardware,95000,98000,EUR,PROJ006,Julie Miller,Q1 2024
+2024-01-15,HR,Recruitment,Services,35000,32000,EUR,PROJ007,Michael Wilson,Q1 2024
+2024-01-15,HR,Training,Training,28000,30500,EUR,PROJ008,Catherine Moore,Q1 2024
+2024-01-15,Finance,Accounting,Software,18000,17500,EUR,PROJ009,David Taylor,Q1 2024
+2024-02-15,Sales,Field Sales,Personnel,85000,86500,EUR,PROJ001,Mary Martin,Q1 2024
+2024-02-15,Sales,Field Sales,Travel,15000,16200,EUR,PROJ001,Mary Martin,Q1 2024
+2024-02-15,Sales,Digital Sales,Software,25000,24800,EUR,PROJ002,Peter Williams,Q1 2024
+2024-02-15,Marketing,Digital Marketing,Advertising,120000,125000,EUR,PROJ003,Sophie Johnson,Q1 2024
+2024-02-15,Marketing,Brand Marketing,Events,45000,41000,EUR,PROJ004,Anthony Davis,Q1 2024
+2024-02-15,IT,Cybersecurity,Software,75000,76000,EUR,PROJ005,Thomas Brown,Q1 2024
+2024-02-15,IT,Infrastructure,Hardware,95000,92000,EUR,PROJ006,Julie Miller,Q1 2024
+2024-02-15,HR,Recruitment,Services,35000,38000,EUR,PROJ007,Michael Wilson,Q1 2024
+2024-02-15,HR,Training,Training,28000,27500,EUR,PROJ008,Catherine Moore,Q1 2024
+2024-02-15,Finance,Accounting,Software,18000,18200,EUR,PROJ009,David Taylor,Q1 2024
+2024-03-15,Sales,Field Sales,Personnel,85000,89000,EUR,PROJ001,Mary Martin,Q1 2024
+2024-03-15,Sales,Field Sales,Travel,15000,18500,EUR,PROJ001,Mary Martin,Q1 2024
+2024-03-15,Sales,Digital Sales,Software,25000,23500,EUR,PROJ002,Peter Williams,Q1 2024
+2024-03-15,Marketing,Digital Marketing,Advertising,120000,128000,EUR,PROJ003,Sophie Johnson,Q1 2024
+2024-03-15,Marketing,Brand Marketing,Events,45000,47500,EUR,PROJ004,Anthony Davis,Q1 2024
+2024-03-15,IT,Cybersecurity,Software,75000,71000,EUR,PROJ005,Thomas Brown,Q1 2024
+2024-03-15,IT,Infrastructure,Hardware,95000,96500,EUR,PROJ006,Julie Miller,Q1 2024
+2024-03-15,HR,Recruitment,Services,35000,34000,EUR,PROJ007,Michael Wilson,Q1 2024
+2024-03-15,HR,Training,Training,28000,29000,EUR,PROJ008,Catherine Moore,Q1 2024
+2024-03-15,Finance,Accounting,Software,18000,17800,EUR,PROJ009,David Taylor,Q1 2024
+2024-04-15,Sales,Field Sales,Personnel,88000,91000,EUR,PROJ010,Mary Martin,Q2 2024
+2024-04-15,Sales,Field Sales,Travel,16000,17800,EUR,PROJ010,Mary Martin,Q2 2024
+2024-04-15,Sales,Digital Sales,Software,27000,28500,EUR,PROJ011,Peter Williams,Q2 2024
+2024-04-15,Marketing,Digital Marketing,Advertising,130000,135000,EUR,PROJ012,Sophie Johnson,Q2 2024
+2024-04-15,Marketing,Brand Marketing,Events,50000,48000,EUR,PROJ013,Anthony Davis,Q2 2024
+2024-04-15,IT,Cybersecurity,Software,80000,82000,EUR,PROJ014,Thomas Brown,Q2 2024
+2024-04-15,IT,Infrastructure,Hardware,100000,105000,EUR,PROJ015,Julie Miller,Q2 2024
+2024-04-15,HR,Recruitment,Services,40000,42000,EUR,PROJ016,Michael Wilson,Q2 2024
+2024-04-15,HR,Training,Training,30000,28500,EUR,PROJ017,Catherine Moore,Q2 2024
+2024-04-15,Finance,Accounting,Software,20000,19500,EUR,PROJ018,David Taylor,Q2 2024
+2024-05-15,Sales,Field Sales,Personnel,88000,87500,EUR,PROJ010,Mary Martin,Q2 2024
+2024-05-15,Sales,Field Sales,Travel,16000,15200,EUR,PROJ010,Mary Martin,Q2 2024
+2024-05-15,Sales,Digital Sales,Software,27000,26000,EUR,PROJ011,Peter Williams,Q2 2024
+2024-05-15,Marketing,Digital Marketing,Advertising,130000,142000,EUR,PROJ012,Sophie Johnson,Q2 2024
+2024-05-15,Marketing,Brand Marketing,Events,50000,53000,EUR,PROJ013,Anthony Davis,Q2 2024
+2024-05-15,IT,Cybersecurity,Software,80000,78500,EUR,PROJ014,Thomas Brown,Q2 2024
+2024-05-15,IT,Infrastructure,Hardware,100000,98000,EUR,PROJ015,Julie Miller,Q2 2024
+2024-05-15,HR,Recruitment,Services,40000,39000,EUR,PROJ016,Michael Wilson,Q2 2024
+2024-05-15,HR,Training,Training,30000,31500,EUR,PROJ017,Catherine Moore,Q2 2024
+2024-05-15,Finance,Accounting,Software,20000,20500,EUR,PROJ018,David Taylor,Q2 2024
+2024-06-15,Sales,Field Sales,Personnel,88000,92000,EUR,PROJ010,Mary Martin,Q2 2024
+2024-06-15,Sales,Field Sales,Travel,16000,18000,EUR,PROJ010,Mary Martin,Q2 2024
+2024-06-15,Sales,Digital Sales,Software,27000,25500,EUR,PROJ011,Peter Williams,Q2 2024
+2024-06-15,Marketing,Digital Marketing,Advertising,130000,138000,EUR,PROJ012,Sophie Johnson,Q2 2024
+2024-06-15,Marketing,Brand Marketing,Events,50000,46000,EUR,PROJ013,Anthony Davis,Q2 2024
+2024-06-15,IT,Cybersecurity,Software,80000,83000,EUR,PROJ014,Thomas Brown,Q2 2024
+2024-06-15,IT,Infrastructure,Hardware,100000,102000,EUR,PROJ015,Julie Miller,Q2 2024
+2024-06-15,HR,Recruitment,Services,40000,41500,EUR,PROJ016,Michael Wilson,Q2 2024
+2024-06-15,HR,Training,Training,30000,29000,EUR,PROJ017,Catherine Moore,Q2 2024
+2024-06-15,Finance,Accounting,Software,20000,19800,EUR,PROJ018,David Taylor,Q2 2024
+2024-07-15,Sales,Field Sales,Personnel,90000,93500,EUR,PROJ019,Mary Martin,Q3 2024
+2024-07-15,Sales,Field Sales,Travel,18000,19500,EUR,PROJ019,Mary Martin,Q3 2024
+2024-07-15,Sales,Digital Sales,Software,30000,31000,EUR,PROJ020,Peter Williams,Q3 2024
+2024-07-15,Marketing,Digital Marketing,Advertising,140000,145000,EUR,PROJ021,Sophie Johnson,Q3 2024
+2024-07-15,Marketing,Brand Marketing,Events,55000,58000,EUR,PROJ022,Anthony Davis,Q3 2024
+2024-07-15,IT,Cybersecurity,Software,85000,87000,EUR,PROJ023,Thomas Brown,Q3 2024
+2024-07-15,IT,Infrastructure,Hardware,110000,115000,EUR,PROJ024,Julie Miller,Q3 2024
+2024-07-15,HR,Recruitment,Services,45000,43000,EUR,PROJ025,Michael Wilson,Q3 2024
+2024-07-15,HR,Training,Training,32000,34000,EUR,PROJ026,Catherine Moore,Q3 2024
+2024-07-15,Finance,Accounting,Software,22000,21500,EUR,PROJ027,David Taylor,Q3 2024
+2024-08-15,Sales,Field Sales,Personnel,90000,88000,EUR,PROJ019,Mary Martin,Q3 2024
+2024-08-15,Sales,Field Sales,Travel,18000,16500,EUR,PROJ019,Mary Martin,Q3 2024
+2024-08-15,Sales,Digital Sales,Software,30000,29500,EUR,PROJ020,Peter Williams,Q3 2024
+2024-08-15,Marketing,Digital Marketing,Advertising,140000,148000,EUR,PROJ021,Sophie Johnson,Q3 2024
+2024-08-15,Marketing,Brand Marketing,Events,55000,52000,EUR,PROJ022,Anthony Davis,Q3 2024
+2024-08-15,IT,Cybersecurity,Software,85000,82000,EUR,PROJ023,Thomas Brown,Q3 2024
+2024-08-15,IT,Infrastructure,Hardware,110000,108000,EUR,PROJ024,Julie Miller,Q3 2024
+2024-08-15,HR,Recruitment,Services,45000,47000,EUR,PROJ025,Michael Wilson,Q3 2024
+2024-08-15,HR,Training,Training,32000,31000,EUR,PROJ026,Catherine Moore,Q3 2024
+2024-08-15,Finance,Accounting,Software,22000,22500,EUR,PROJ027,David Taylor,Q3 2024
+2024-09-15,Sales,Field Sales,Personnel,90000,94000,EUR,PROJ019,Mary Martin,Q3 2024
+2024-09-15,Sales,Field Sales,Travel,18000,20000,EUR,PROJ019,Mary Martin,Q3 2024
+2024-09-15,Sales,Digital Sales,Software,30000,28000,EUR,PROJ020,Peter Williams,Q3 2024
+2024-09-15,Marketing,Digital Marketing,Advertising,140000,152000,EUR,PROJ021,Sophie Johnson,Q3 2024
+2024-09-15,Marketing,Brand Marketing,Events,55000,57000,EUR,PROJ022,Anthony Davis,Q3 2024
+2024-09-15,IT,Cybersecurity,Software,85000,86500,EUR,PROJ023,Thomas Brown,Q3 2024
+2024-09-15,IT,Infrastructure,Hardware,110000,112000,EUR,PROJ024,Julie Miller,Q3 2024
+2024-09-15,HR,Recruitment,Services,45000,44000,EUR,PROJ025,Michael Wilson,Q3 2024
+2024-09-15,HR,Training,Training,32000,33500,EUR,PROJ026,Catherine Moore,Q3 2024
+2024-09-15,Finance,Accounting,Software,22000,21800,EUR,PROJ027,David Taylor,Q3 2024
+2024-10-15,Sales,Field Sales,Personnel,92000,95000,EUR,PROJ028,Mary Martin,Q4 2024
+2024-10-15,Sales,Field Sales,Travel,20000,21500,EUR,PROJ028,Mary Martin,Q4 2024
+2024-10-15,Sales,Digital Sales,Software,32000,33500,EUR,PROJ029,Peter Williams,Q4 2024
+2024-10-15,Marketing,Digital Marketing,Advertising,150000,155000,EUR,PROJ030,Sophie Johnson,Q4 2024
+2024-10-15,Marketing,Brand Marketing,Events,60000,62000,EUR,PROJ031,Anthony Davis,Q4 2024
+2024-10-15,IT,Cybersecurity,Software,90000,92000,EUR,PROJ032,Thomas Brown,Q4 2024
+2024-10-15,IT,Infrastructure,Hardware,120000,125000,EUR,PROJ033,Julie Miller,Q4 2024
+2024-10-15,HR,Recruitment,Services,50000,48000,EUR,PROJ034,Michael Wilson,Q4 2024
+2024-10-15,HR,Training,Training,35000,37000,EUR,PROJ035,Catherine Moore,Q4 2024
+2024-10-15,Finance,Accounting,Software,25000,24500,EUR,PROJ036,David Taylor,Q4 2024
+2024-11-15,Sales,Field Sales,Personnel,92000,89000,EUR,PROJ028,Mary Martin,Q4 2024
+2024-11-15,Sales,Field Sales,Travel,20000,18500,EUR,PROJ028,Mary Martin,Q4 2024
+2024-11-15,Sales,Digital Sales,Software,32000,31000,EUR,PROJ029,Peter Williams,Q4 2024
+2024-11-15,Marketing,Digital Marketing,Advertising,150000,162000,EUR,PROJ030,Sophie Johnson,Q4 2024
+2024-11-15,Marketing,Brand Marketing,Events,60000,58000,EUR,PROJ031,Anthony Davis,Q4 2024
+2024-11-15,IT,Cybersecurity,Software,90000,87000,EUR,PROJ032,Thomas Brown,Q4 2024
+2024-11-15,IT,Infrastructure,Hardware,120000,118000,EUR,PROJ033,Julie Miller,Q4 2024
+2024-11-15,HR,Recruitment,Services,50000,52000,EUR,PROJ034,Michael Wilson,Q4 2024
+2024-11-15,HR,Training,Training,35000,34000,EUR,PROJ035,Catherine Moore,Q4 2024
+2024-11-15,Finance,Accounting,Software,25000,25500,EUR,PROJ036,David Taylor,Q4 2024
+2024-12-15,Sales,Field Sales,Personnel,92000,96000,EUR,PROJ028,Mary Martin,Q4 2024
+2024-12-15,Sales,Field Sales,Travel,20000,22000,EUR,PROJ028,Mary Martin,Q4 2024
+2024-12-15,Sales,Digital Sales,Software,32000,30000,EUR,PROJ029,Peter Williams,Q4 2024
+2024-12-15,Marketing,Digital Marketing,Advertising,150000,158000,EUR,PROJ030,Sophie Johnson,Q4 2024
+2024-12-15,Marketing,Brand Marketing,Events,60000,64000,EUR,PROJ031,Anthony Davis,Q4 2024
+2024-12-15,IT,Cybersecurity,Software,90000,91500,EUR,PROJ032,Thomas Brown,Q4 2024
+2024-12-15,IT,Infrastructure,Hardware,120000,122000,EUR,PROJ033,Julie Miller,Q4 2024
+2024-12-15,HR,Recruitment,Services,50000,49000,EUR,PROJ034,Michael Wilson,Q4 2024
+2024-12-15,HR,Training,Training,35000,36500,EUR,PROJ035,Catherine Moore,Q4 2024
+2024-12-15,Finance,Accounting,Software,25000,24800,EUR,PROJ036,David Taylor,Q4 2024
+2024-01-15,Operations,Logistics,Transportation,65000,68000,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-01-15,Operations,Logistics,Warehouse,45000,43500,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-01-15,Operations,Quality,Equipment,35000,36500,EUR,PROJ038,Frank White,Q1 2024
+2024-01-15,R&D,Innovation,Research,80000,82000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-01-15,R&D,Innovation,Equipment,120000,115000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-01-15,Legal,Compliance,Services,25000,26500,EUR,PROJ040,Nicholas Thompson,Q1 2024
+2024-01-15,Legal,Contracts,Services,30000,28000,EUR,PROJ041,Nicholas Thompson,Q1 2024
+2024-02-15,Operations,Logistics,Transportation,65000,67500,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-02-15,Operations,Logistics,Warehouse,45000,46000,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-02-15,Operations,Quality,Equipment,35000,34000,EUR,PROJ038,Frank White,Q1 2024
+2024-02-15,R&D,Innovation,Research,80000,78000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-02-15,R&D,Innovation,Equipment,120000,125000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-02-15,Legal,Compliance,Services,25000,24500,EUR,PROJ040,Nicholas Thompson,Q1 2024
+2024-02-15,Legal,Contracts,Services,30000,31000,EUR,PROJ041,Nicholas Thompson,Q1 2024
+2024-03-15,Operations,Logistics,Transportation,65000,63000,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-03-15,Operations,Logistics,Warehouse,45000,47500,EUR,PROJ037,Isabella Garcia,Q1 2024
+2024-03-15,Operations,Quality,Equipment,35000,35500,EUR,PROJ038,Frank White,Q1 2024
+2024-03-15,R&D,Innovation,Research,80000,81000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-03-15,R&D,Innovation,Equipment,120000,118000,EUR,PROJ039,Caroline Adams,Q1 2024
+2024-03-15,Legal,Compliance,Services,25000,25500,EUR,PROJ040,Nicholas Thompson,Q1 2024
+2024-03-15,Legal,Contracts,Services,30000,29500,EUR,PROJ041,Nicholas Thompson,Q1 2024
+2024-04-15,Operations,Logistics,Transportation,70000,72000,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-04-15,Operations,Logistics,Warehouse,48000,46500,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-04-15,Operations,Quality,Equipment,38000,39000,EUR,PROJ043,Frank White,Q2 2024
+2024-04-15,R&D,Innovation,Research,85000,87000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-04-15,R&D,Innovation,Equipment,130000,128000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-04-15,Legal,Compliance,Services,28000,29000,EUR,PROJ045,Nicholas Thompson,Q2 2024
+2024-04-15,Legal,Contracts,Services,32000,31500,EUR,PROJ046,Nicholas Thompson,Q2 2024
+2024-05-15,Operations,Logistics,Transportation,70000,71500,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-05-15,Operations,Logistics,Warehouse,48000,49000,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-05-15,Operations,Quality,Equipment,38000,37000,EUR,PROJ043,Frank White,Q2 2024
+2024-05-15,R&D,Innovation,Research,85000,83000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-05-15,R&D,Innovation,Equipment,130000,135000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-05-15,Legal,Compliance,Services,28000,27500,EUR,PROJ045,Nicholas Thompson,Q2 2024
+2024-05-15,Legal,Contracts,Services,32000,33000,EUR,PROJ046,Nicholas Thompson,Q2 2024
+2024-06-15,Operations,Logistics,Transportation,70000,68000,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-06-15,Operations,Logistics,Warehouse,48000,50000,EUR,PROJ042,Isabella Garcia,Q2 2024
+2024-06-15,Operations,Quality,Equipment,38000,38500,EUR,PROJ043,Frank White,Q2 2024
+2024-06-15,R&D,Innovation,Research,85000,86000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-06-15,R&D,Innovation,Equipment,130000,127000,EUR,PROJ044,Caroline Adams,Q2 2024
+2024-06-15,Legal,Compliance,Services,28000,28500,EUR,PROJ045,Nicholas Thompson,Q2 2024
+2024-06-15,Legal,Contracts,Services,32000,30500,EUR,PROJ046,Nicholas Thompson,Q2 2024
+2024-07-15,Operations,Logistics,Transportation,75000,77000,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-07-15,Operations,Logistics,Warehouse,52000,51000,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-07-15,Operations,Quality,Equipment,42000,43500,EUR,PROJ048,Frank White,Q3 2024
+2024-07-15,R&D,Innovation,Research,90000,92000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-07-15,R&D,Innovation,Equipment,140000,138000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-07-15,Legal,Compliance,Services,30000,31000,EUR,PROJ050,Nicholas Thompson,Q3 2024
+2024-07-15,Legal,Contracts,Services,35000,34500,EUR,PROJ051,Nicholas Thompson,Q3 2024
+2024-08-15,Operations,Logistics,Transportation,75000,76500,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-08-15,Operations,Logistics,Warehouse,52000,53000,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-08-15,Operations,Quality,Equipment,42000,41000,EUR,PROJ048,Frank White,Q3 2024
+2024-08-15,R&D,Innovation,Research,90000,88000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-08-15,R&D,Innovation,Equipment,140000,145000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-08-15,Legal,Compliance,Services,30000,29500,EUR,PROJ050,Nicholas Thompson,Q3 2024
+2024-08-15,Legal,Contracts,Services,35000,36000,EUR,PROJ051,Nicholas Thompson,Q3 2024
+2024-09-15,Operations,Logistics,Transportation,75000,73000,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-09-15,Operations,Logistics,Warehouse,52000,54000,EUR,PROJ047,Isabella Garcia,Q3 2024
+2024-09-15,Operations,Quality,Equipment,42000,42500,EUR,PROJ048,Frank White,Q3 2024
+2024-09-15,R&D,Innovation,Research,90000,91000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-09-15,R&D,Innovation,Equipment,140000,137000,EUR,PROJ049,Caroline Adams,Q3 2024
+2024-09-15,Legal,Compliance,Services,30000,30500,EUR,PROJ050,Nicholas Thompson,Q3 2024
+2024-09-15,Legal,Contracts,Services,35000,33500,EUR,PROJ051,Nicholas Thompson,Q3 2024
+2024-10-15,Operations,Logistics,Transportation,80000,82000,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-10-15,Operations,Logistics,Warehouse,55000,54000,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-10-15,Operations,Quality,Equipment,45000,46500,EUR,PROJ053,Frank White,Q4 2024
+2024-10-15,R&D,Innovation,Research,95000,97000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-10-15,R&D,Innovation,Equipment,150000,148000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-10-15,Legal,Compliance,Services,32000,33000,EUR,PROJ055,Nicholas Thompson,Q4 2024
+2024-10-15,Legal,Contracts,Services,38000,37500,EUR,PROJ056,Nicholas Thompson,Q4 2024
+2024-11-15,Operations,Logistics,Transportation,80000,81500,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-11-15,Operations,Logistics,Warehouse,55000,56000,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-11-15,Operations,Quality,Equipment,45000,44000,EUR,PROJ053,Frank White,Q4 2024
+2024-11-15,R&D,Innovation,Research,95000,93000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-11-15,R&D,Innovation,Equipment,150000,155000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-11-15,Legal,Compliance,Services,32000,31500,EUR,PROJ055,Nicholas Thompson,Q4 2024
+2024-11-15,Legal,Contracts,Services,38000,39000,EUR,PROJ056,Nicholas Thompson,Q4 2024
+2024-12-15,Operations,Logistics,Transportation,80000,78000,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-12-15,Operations,Logistics,Warehouse,55000,57000,EUR,PROJ052,Isabella Garcia,Q4 2024
+2024-12-15,Operations,Quality,Equipment,45000,45500,EUR,PROJ053,Frank White,Q4 2024
+2024-12-15,R&D,Innovation,Research,95000,96000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-12-15,R&D,Innovation,Equipment,150000,147000,EUR,PROJ054,Caroline Adams,Q4 2024
+2024-12-15,Legal,Compliance,Services,32000,32500,EUR,PROJ055,Nicholas Thompson,Q4 2024
+2024-12-15,Legal,Contracts,Services,38000,36500,EUR,PROJ056,Nicholas Thompson,Q4 2024

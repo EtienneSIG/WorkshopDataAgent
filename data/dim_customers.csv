@@ -1,0 +1,51 @@
+Customer_ID,Customer_Name,Customer_Type,Industry,Country,Region,City,Annual_Revenue,Employee_Count,Founded_Year,Customer_Segment,Account_Manager,Credit_Rating,Preferred_Channel
+CUST001,TechCorp Solutions,Enterprise,Technology,USA,North America,San Francisco,50000000,500,2010,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST002,Global Manufacturing Ltd,Enterprise,Manufacturing,Germany,Europe,Munich,75000000,1200,1985,Large Enterprise,Peter Williams,AA+,Online
+CUST003,FinanceFirst Bank,Enterprise,Financial Services,USA,North America,New York,120000000,2500,1995,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST004,Asia Pacific Trading,Enterprise,Retail,Singapore,Asia Pacific,Singapore,35000000,800,2005,Large Enterprise,Emma Johnson,AA,Partner
+CUST005,EuroLogistics Group,Enterprise,Logistics,Netherlands,Europe,Amsterdam,45000000,600,2000,Large Enterprise,Peter Williams,AA+,Online
+CUST006,Healthcare Innovations,Mid-Market,Healthcare,USA,North America,Boston,15000000,300,2012,Mid-Market,Emma Johnson,AA-,Direct Sales
+CUST007,Energy Solutions Inc,Enterprise,Energy,USA,North America,Houston,85000000,1500,1990,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST008,Digital Media Europa,Mid-Market,Media,France,Europe,Paris,25000000,400,2008,Mid-Market,Peter Williams,AA,Online
+CUST009,Pacific Rim Industries,Enterprise,Manufacturing,Australia,Asia Pacific,Sydney,55000000,900,1998,Large Enterprise,Emma Johnson,AA+,Partner
+CUST010,North Atlantic Shipping,Mid-Market,Transportation,Canada,North America,Toronto,18000000,250,2005,Mid-Market,Emma Johnson,AA-,Direct Sales
+CUST011,Continental Insurance,Enterprise,Insurance,Switzerland,Europe,Zurich,95000000,1800,1975,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST012,CloudFirst Technologies,Mid-Market,Technology,UK,Europe,London,22000000,350,2015,Mid-Market,Peter Williams,AA,Online
+CUST013,Asian Electronics,Enterprise,Electronics,Japan,Asia Pacific,Tokyo,65000000,1100,1988,Large Enterprise,Emma Johnson,AA+,Partner
+CUST014,Midwest Agriculture,Mid-Market,Agriculture,USA,North America,Chicago,12000000,200,2010,Mid-Market,Emma Johnson,A+,Direct Sales
+CUST015,Global Pharmaceuticals,Enterprise,Pharmaceuticals,USA,North America,New Jersey,110000000,2200,1980,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST016,European Automotive,Enterprise,Automotive,Germany,Europe,Stuttgart,80000000,1600,1970,Large Enterprise,Peter Williams,AAA,Online
+CUST017,Southeast Construction,Mid-Market,Construction,Thailand,Asia Pacific,Bangkok,28000000,450,2007,Mid-Market,Emma Johnson,AA-,Partner
+CUST018,Canadian Resources,Mid-Market,Mining,Canada,North America,Vancouver,20000000,300,2000,Mid-Market,Emma Johnson,AA,Direct Sales
+CUST019,Nordic Telecom,Enterprise,Telecommunications,Sweden,Europe,Stockholm,70000000,1300,1992,Large Enterprise,Mary Martin,AA+,Direct Sales
+CUST020,Digital Solutions UK,Mid-Market,Technology,UK,Europe,Manchester,16000000,280,2014,Mid-Market,Peter Williams,AA-,Online
+CUST021,Pacific Foods,Enterprise,Food & Beverage,New Zealand,Asia Pacific,Auckland,40000000,700,1995,Large Enterprise,Emma Johnson,AA+,Partner
+CUST022,Great Lakes Steel,Mid-Market,Manufacturing,USA,North America,Detroit,24000000,400,1985,Mid-Market,Emma Johnson,AA,Direct Sales
+CUST023,Alpine Tourism,Small Business,Tourism,Austria,Europe,Vienna,8000000,150,2012,Small Business,Peter Williams,A+,Online
+CUST024,Metro Retail Chain,Enterprise,Retail,USA,North America,Atlanta,60000000,1000,1988,Large Enterprise,Mary Martin,AA+,Direct Sales
+CUST025,South American Mining,Enterprise,Mining,Brazil,South America,São Paulo,45000000,800,2001,Large Enterprise,James Wilson,AA,Partner
+CUST026,Arctic Shipping,Small Business,Transportation,Norway,Europe,Oslo,6000000,100,2015,Small Business,Peter Williams,A,Direct Sales
+CUST027,Desert Solar,Mid-Market,Energy,USA,North America,Phoenix,14000000,220,2016,Mid-Market,Emma Johnson,AA-,Direct Sales
+CUST028,Mediterranean Foods,Small Business,Food & Beverage,Italy,Europe,Rome,7000000,120,2010,Small Business,Peter Williams,A+,Online
+CUST029,Island Electronics,Mid-Market,Electronics,Taiwan,Asia Pacific,Taipei,30000000,500,2003,Mid-Market,Emma Johnson,AA,Partner
+CUST030,Prairie Agriculture,Small Business,Agriculture,USA,North America,Kansas City,5000000,80,2018,Small Business,Emma Johnson,A,Direct Sales
+CUST031,Global Consulting,Enterprise,Professional Services,USA,North America,Washington DC,85000000,1400,1992,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST032,European Fashion,Mid-Market,Fashion,France,Europe,Lyon,19000000,320,2006,Mid-Market,Peter Williams,AA-,Online
+CUST033,Pacific Banking,Enterprise,Financial Services,Hong Kong,Asia Pacific,Hong Kong,75000000,1200,1985,Large Enterprise,Emma Johnson,AA+,Partner
+CUST034,Mountain Resources,Small Business,Mining,USA,North America,Denver,9000000,150,2013,Small Business,Emma Johnson,A+,Direct Sales
+CUST035,International Trading,Enterprise,Trading,UAE,Middle East,Dubai,90000000,1600,1990,Large Enterprise,Mary Martin,AA+,Direct Sales
+CUST036,Baltic Logistics,Mid-Market,Logistics,Estonia,Europe,Tallinn,13000000,200,2011,Mid-Market,Peter Williams,AA-,Online
+CUST037,Tropical Agriculture,Mid-Market,Agriculture,Philippines,Asia Pacific,Manila,17000000,280,2009,Mid-Market,Emma Johnson,AA-,Partner
+CUST038,Valley Technology,Small Business,Technology,USA,North America,San Jose,11000000,180,2017,Small Business,Emma Johnson,A+,Direct Sales
+CUST039,Continental Airlines,Enterprise,Transportation,Germany,Europe,Frankfurt,95000000,1800,1975,Large Enterprise,Mary Martin,AAA,Direct Sales
+CUST040,Coastal Manufacturing,Mid-Market,Manufacturing,USA,North America,Seattle,21000000,350,2004,Mid-Market,Emma Johnson,AA,Direct Sales
+CUST041,Eastern Pharmaceuticals,Enterprise,Pharmaceuticals,India,Asia Pacific,Mumbai,55000000,900,1998,Large Enterprise,Emma Johnson,AA+,Partner
+CUST042,Northern Forests,Small Business,Forestry,Finland,Europe,Helsinki,4000000,70,2019,Small Business,Peter Williams,A,Direct Sales
+CUST043,Desert Mining,Mid-Market,Mining,Australia,Asia Pacific,Perth,26000000,420,2001,Mid-Market,Emma Johnson,AA,Partner
+CUST044,Urban Development,Mid-Market,Real Estate,USA,North America,Miami,23000000,380,2007,Mid-Market,Emma Johnson,AA-,Direct Sales
+CUST045,Arctic Energy,Enterprise,Energy,Canada,North America,Calgary,78000000,1300,1982,Large Enterprise,Mary Martin,AA+,Direct Sales
+CUST046,Island Tourism,Small Business,Tourism,Greece,Europe,Athens,6500000,110,2014,Small Business,Peter Williams,A+,Online
+CUST047,Pacific Technology,Enterprise,Technology,South Korea,Asia Pacific,Seoul,68000000,1100,1994,Large Enterprise,Emma Johnson,AA+,Partner
+CUST048,Alpine Manufacturing,Mid-Market,Manufacturing,Switzerland,Europe,Geneva,18000000,300,2008,Mid-Market,Peter Williams,AA-,Online
+CUST049,Equatorial Trading,Mid-Market,Trading,Ecuador,South America,Quito,15000000,250,2012,Mid-Market,James Wilson,AA-,Partner
+CUST050,Polar Research,Small Business,Research,Iceland,Europe,Reykjavik,3500000,60,2020,Small Business,Peter Williams,A,Online

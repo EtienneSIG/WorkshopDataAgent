@@ -1,0 +1,57 @@
+Project_ID,Project_Name,Project_Type,Start_Date,End_Date,Status,Budget_Total,Division_Owner,Priority,Description
+PROJ001,Q1 Sales Expansion,Sales Initiative,2024-01-01,2024-03-31,Completed,100000,Sales,High,Expand field sales team and territories
+PROJ002,Digital Platform Upgrade,Technology,2024-01-01,2024-06-30,In Progress,53000,Sales,Medium,Modernize digital sales platform
+PROJ003,Brand Awareness Campaign,Marketing,2024-01-01,2024-12-31,In Progress,365000,Marketing,High,Year-long brand awareness initiative
+PROJ004,Event Series 2024,Marketing,2024-01-01,2024-12-31,In Progress,200000,Marketing,Medium,Quarterly marketing events
+PROJ005,Security Infrastructure,IT Security,2024-01-01,2024-09-30,In Progress,225000,IT,Critical,Enhance cybersecurity measures
+PROJ006,Data Center Modernization,Infrastructure,2024-01-01,2024-12-31,In Progress,315000,IT,High,Upgrade hardware infrastructure
+PROJ007,Talent Acquisition Program,HR Initiative,2024-01-01,2024-12-31,In Progress,105000,HR,Medium,Expand recruitment capabilities
+PROJ008,Learning & Development,Training,2024-01-01,2024-12-31,In Progress,87000,HR,Medium,Employee skill development program
+PROJ009,Financial Systems Upgrade,Finance,2024-01-01,2024-08-31,Completed,54000,Finance,High,Modernize accounting systems
+PROJ010,Q2 Market Penetration,Sales Initiative,2024-04-01,2024-06-30,Completed,104000,Sales,High,Enter new market segments
+PROJ011,E-commerce Enhancement,Technology,2024-04-01,2024-09-30,In Progress,56000,Sales,Medium,Improve online sales platform
+PROJ012,Summer Campaign,Marketing,2024-04-01,2024-08-31,Completed,415000,Marketing,High,Seasonal marketing push
+PROJ013,Customer Events,Marketing,2024-04-01,2024-12-31,In Progress,154000,Marketing,Medium,Customer engagement events
+PROJ014,Advanced Threat Detection,IT Security,2024-04-01,2024-12-31,In Progress,245000,IT,Critical,AI-powered security monitoring
+PROJ015,Cloud Migration Phase 2,Infrastructure,2024-04-01,2024-12-31,In Progress,305000,IT,High,Continue cloud transformation
+PROJ016,Diversity Initiative,HR Initiative,2024-04-01,2024-12-31,In Progress,122000,HR,High,Promote workplace diversity
+PROJ017,Leadership Development,Training,2024-04-01,2024-12-31,In Progress,92000,HR,Medium,Executive training program
+PROJ018,Budget Analytics,Finance,2024-04-01,2024-10-31,In Progress,58000,Finance,Medium,Improve financial reporting
+PROJ019,Q3 Performance Drive,Sales Initiative,2024-07-01,2024-09-30,Completed,108000,Sales,High,Boost Q3 sales performance
+PROJ020,Mobile App Development,Technology,2024-07-01,2024-12-31,In Progress,61000,Sales,Medium,Develop mobile sales app
+PROJ021,Autumn Campaign,Marketing,2024-07-01,2024-11-30,In Progress,445000,Marketing,High,Fall season marketing
+PROJ022,Trade Show Series,Marketing,2024-07-01,2024-12-31,In Progress,170000,Marketing,Medium,Industry trade shows
+PROJ023,Zero Trust Architecture,IT Security,2024-07-01,2024-12-31,In Progress,255000,IT,Critical,Implement zero trust security
+PROJ024,Performance Optimization,Infrastructure,2024-07-01,2024-12-31,In Progress,335000,IT,High,Optimize system performance
+PROJ025,Employee Wellness,HR Initiative,2024-07-01,2024-12-31,In Progress,133000,HR,Medium,Health and wellness program
+PROJ026,Skills Assessment,Training,2024-07-01,2024-12-31,In Progress,97000,HR,Medium,Evaluate employee competencies
+PROJ027,Cost Optimization,Finance,2024-07-01,2024-12-31,In Progress,64000,Finance,High,Reduce operational costs
+PROJ028,Q4 Year-End Push,Sales Initiative,2024-10-01,2024-12-31,Planned,112000,Sales,Critical,Final quarter sales drive
+PROJ029,Digital Transformation,Technology,2024-10-01,2025-03-31,Planned,64000,Sales,High,Complete digital overhaul
+PROJ030,Holiday Campaign,Marketing,2024-10-01,2024-12-31,In Progress,455000,Marketing,Critical,Holiday season marketing
+PROJ031,Year-End Events,Marketing,2024-10-01,2024-12-31,Planned,182000,Marketing,Medium,End of year celebrations
+PROJ032,Security Audit,IT Security,2024-10-01,2024-12-31,Planned,275000,IT,Critical,Comprehensive security review
+PROJ033,Infrastructure Scaling,Infrastructure,2024-10-01,2024-12-31,Planned,365000,IT,High,Scale infrastructure for growth
+PROJ034,Year-End Reviews,HR Initiative,2024-10-01,2024-12-31,Planned,149000,HR,High,Annual performance reviews
+PROJ035,Certification Program,Training,2024-10-01,2024-12-31,Planned,107000,HR,Medium,Professional certification support
+PROJ036,Annual Budgeting,Finance,2024-10-01,2024-12-31,In Progress,73000,Finance,Critical,Prepare 2025 budget
+PROJ037,Supply Chain Optimization,Operations,2024-01-01,2024-12-31,In Progress,178000,Operations,High,Optimize logistics operations
+PROJ038,Quality Improvement,Operations,2024-01-01,2024-12-31,In Progress,105000,Operations,Medium,Enhance quality processes
+PROJ039,Innovation Lab,R&D,2024-01-01,2024-12-31,In Progress,600000,R&D,Critical,Research and development facility
+PROJ040,Compliance Framework,Legal,2024-01-01,2024-12-31,In Progress,77000,Legal,High,Strengthen compliance processes
+PROJ041,Contract Management,Legal,2024-01-01,2024-12-31,In Progress,90000,Legal,Medium,Improve contract processes
+PROJ042,Logistics Automation,Operations,2024-04-01,2024-12-31,In Progress,236000,Operations,High,Automate warehouse operations
+PROJ043,Six Sigma Implementation,Operations,2024-04-01,2024-12-31,In Progress,114000,Operations,Medium,Quality methodology rollout
+PROJ044,AI Research Initiative,R&D,2024-04-01,2024-12-31,In Progress,650000,R&D,Critical,Artificial intelligence research
+PROJ045,Regulatory Updates,Legal,2024-04-01,2024-12-31,In Progress,84000,Legal,High,Update compliance procedures
+PROJ046,Vendor Management,Legal,2024-04-01,2024-12-31,In Progress,95000,Legal,Medium,Streamline vendor contracts
+PROJ047,Smart Warehouse,Operations,2024-07-01,2024-12-31,In Progress,284000,Operations,High,IoT-enabled warehouse management
+PROJ048,Process Excellence,Operations,2024-07-01,2024-12-31,In Progress,127000,Operations,Medium,Continuous improvement program
+PROJ049,Future Tech Research,R&D,2024-07-01,2024-12-31,In Progress,730000,R&D,Critical,Next-generation technology research
+PROJ050,Risk Management,Legal,2024-07-01,2024-12-31,In Progress,93000,Legal,High,Enterprise risk assessment
+PROJ051,Legal Tech Adoption,Legal,2024-07-01,2024-12-31,In Progress,105000,Legal,Medium,Technology for legal processes
+PROJ052,Distribution Network,Operations,2024-10-01,2024-12-31,Planned,324000,Operations,Critical,Expand distribution capabilities
+PROJ053,Quality Certification,Operations,2024-10-01,2024-12-31,Planned,135000,Operations,High,Achieve quality certifications
+PROJ054,Breakthrough Innovation,R&D,2024-10-01,2024-12-31,Planned,790000,R&D,Critical,Revolutionary product development
+PROJ055,Governance Framework,Legal,2024-10-01,2024-12-31,Planned,103000,Legal,Critical,Corporate governance enhancement
+PROJ056,IP Portfolio Management,Legal,2024-10-01,2024-12-31,Planned,113000,Legal,High,Intellectual property strategy
