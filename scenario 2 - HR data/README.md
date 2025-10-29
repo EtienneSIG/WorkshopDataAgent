@@ -81,14 +81,13 @@ This hands-on session is designed to demonstrate to HR executives and managers t
 #### 5. First Conversational Test
 **Questions to ask the Data Agent:**
 - Question 1 : "Can you describe the workforce data?"
+- Anwser 1 : ![Question1](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/HR_question1.png)
 - Question 2 : "How many employees do we have in total, and how are they distributed between internal and external?"
+- Anwser 2 : ![Question2](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/HR_question2.png)
 - Question 3 : "What's the average workload across all employees?"
+- Anwser 3 : ![Question2](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/HR_question3.png)
 - Question 4 : "Show me employees who are consistently overutilized (workload > 110%) for multiple months"
-- Question 5 : "Which Domain Solutions has the highest average workload?"
-- Question 6 : "Are there any seasonal patterns in workload? Which months are busiest?"
-- Question 7 : "Compare workload between BS and AMN entities"
-- Question 8 : "Identify underutilized employees (< 90% workload) who could take on more work"
-
+- Anwser 4 : ![Question2](https://github.com/EtienneSIG/WorkshopDataAgent/blob/main/img/HR_question4.png)
 
 ### 💡 Key Points for HR Executives
 - **Simplicity**: From your desktop to AI-powered HR insights in 5 clicks
@@ -391,6 +390,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents for HR workforce management. The goal is to show how AI can become a true decision-making assistant for HR leaders in capacity planning, workload optimization, and employee resource management.*
+
 
 
 
