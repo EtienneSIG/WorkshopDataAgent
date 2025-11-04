@@ -27,7 +27,7 @@ This hands-on session is designed to demonstrate to executives the power of **Mi
 
 #### Detailed Steps
 ## Load data via OneLake Explorer (optionnal)
-## If you don't do use Onelake Explorer, go directly to step [here](https://github.com/EtienneSIG/WorkshopDataAgent/tree/main/scenario%201%20-%20Financial%20data#load-data-via-onelake)
+## If you don't do use Onelake Explorer, go directly [here](https://github.com/EtienneSIG/WorkshopDataAgent/tree/main/scenario%201%20-%20Financial%20data#load-data-via-onelake)
 ##### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
@@ -295,6 +295,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents in an executive context. The goal is to show how AI can become a true decision-making assistant for leaders.*
+
 
 
 
