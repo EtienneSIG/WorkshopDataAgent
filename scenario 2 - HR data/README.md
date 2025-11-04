@@ -27,7 +27,7 @@ This hands-on session is designed to demonstrate to HR executives and managers t
 
 #### Detailed Steps
 ## Load data via OneLake Explorer (optionnal)
-## If you don't do use Onelake Explorer, go directly to step [here](https://github.com/EtienneSIG/WorkshopDataAgent/tree/main/scenario%202%20-%20HR%20data#load-data-via-onelake)
+## If you don't do use Onelake Explorer, go directly [here](https://github.com/EtienneSIG/WorkshopDataAgent/tree/main/scenario%202%20-%20HR%20data#load-data-via-onelake)
 ##### 1. Connection via OneLake Explorer
 1. **Launch OneLake Explorer**
    - Right-click on the OneLake icon in the taskbar
@@ -390,6 +390,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents for HR workforce management. The goal is to show how AI can become a true decision-making assistant for HR leaders in capacity planning, workload optimization, and employee resource management.*
+
 
 
 
