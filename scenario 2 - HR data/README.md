@@ -133,18 +133,18 @@ This hands-on session is designed to demonstrate to HR executives and managers t
    // Average Workload
    Average Workload = 
    AVERAGE(
-       'workforce_dataset_400'[% of work January] + 
-       'workforce_dataset_400'[% work February] + 
-       'workforce_dataset_400'[% work March] + 
-       'workforce_dataset_400'[% work April] + 
-       'workforce_dataset_400'[% work May] + 
-       'workforce_dataset_400'[% work June] + 
-       'workforce_dataset_400'[% work July] + 
-       'workforce_dataset_400'[% work August] + 
-       'workforce_dataset_400'[% work September] + 
-       'workforce_dataset_400'[% work October] + 
-       'workforce_dataset_400'[% work November] + 
-       'workforce_dataset_400'[% work December]
+       'workforce_dataset_400'[pourcentage_of_work_January] + 
+       'workforce_dataset_400'[pourcentage_of_work_February] + 
+       'workforce_dataset_400'[pourcentage_of_work_March] + 
+       'workforce_dataset_400'[pourcentage_of_work_April] + 
+       'workforce_dataset_400'[pourcentage_of_work_May] + 
+       'workforce_dataset_400'[pourcentage_of_work_June] + 
+       'workforce_dataset_400'[pourcentage_of_work_July] + 
+       'workforce_dataset_400'[pourcentage_of_work_August] + 
+       'workforce_dataset_400'[pourcentage_of_work_September] + 
+       'workforce_dataset_400'[pourcentage_of_work_October] + 
+       'workforce_dataset_400'[pourcentage_of_work_November] + 
+       'workforce_dataset_400'[pourcentage_of_work_December]
    ) / 12
 
    // Overutilized Employees
@@ -390,6 +390,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents for HR workforce management. The goal is to show how AI can become a true decision-making assistant for HR leaders in capacity planning, workload optimization, and employee resource management.*
+
 
 
 
