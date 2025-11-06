@@ -131,21 +131,8 @@ This hands-on session is designed to demonstrate to HR executives and managers t
    Total Employees = COUNTROWS('workforce_dataset_400')
 
    // Average Workload
-   Average Workload = 
-   AVERAGE(
-       'workforce_dataset_400'[pourcentage_of_work_January] + 
-       'workforce_dataset_400'[pourcentage_of_work_February] + 
-       'workforce_dataset_400'[pourcentage_of_work_March] + 
-       'workforce_dataset_400'[pourcentage_of_work_April] + 
-       'workforce_dataset_400'[pourcentage_of_work_May] + 
-       'workforce_dataset_400'[pourcentage_of_work_June] + 
-       'workforce_dataset_400'[pourcentage_of_work_July] + 
-       'workforce_dataset_400'[pourcentage_of_work_August] + 
-       'workforce_dataset_400'[pourcentage_of_work_September] + 
-       'workforce_dataset_400'[pourcentage_of_work_October] + 
-       'workforce_dataset_400'[pourcentage_of_work_November] + 
-       'workforce_dataset_400'[pourcentage_of_work_December]
-   ) / 12
+
+    Average Workload = (AVERAGE('workforce_dataset_400'[pourcentage_of_work_January]) + AVERAGE('workforce_dataset_400'[pourcentage_work_February]) + AVERAGE(workforce_dataset_400[pourcentage_work_March])+AVERAGE(workforce_dataset_400[pourcentage_work_April])+ AVERAGE(workforce_dataset_400[pourcentage_work_May])+AVERAGE(workforce_dataset_400[pourcentage_work_June])+AVERAGE(workforce_dataset_400[pourcentage_work_July])+AVERAGE(workforce_dataset_400[pourcentage_work_August]) + average(workforce_dataset_400[pourcentage_work_September]) + AVERAGE(workforce_dataset_400[pourcentage_work_November]) + AVERAGE(workforce_dataset_400[pourcentage_work_December])) / 12
 
    // Overutilized Employees
    Overutilized Employees = 
@@ -390,6 +377,7 @@ Building on the semantic model created above, you can now leverage **Copilot for
 
 
 *This hands-on was designed to demonstrate the transformative power of Microsoft Fabric Data Agents for HR workforce management. The goal is to show how AI can become a true decision-making assistant for HR leaders in capacity planning, workload optimization, and employee resource management.*
+
 
 
 
